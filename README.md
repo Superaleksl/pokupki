@@ -10,7 +10,7 @@
 - **i wana say _extremly_ need things** 
 - <sub> this is subscript that isn't important</sub>
 - [x] this is a note
-- | First Header  | Second Header |
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
